@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cemetery-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cemetery-Management?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cemetery-Management/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cemetery-Management?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cemetery-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cemetery-Management?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cemetery-Management/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cemetery-Management?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -53,7 +53,7 @@
 
 ## 💻 Open-Source GitHub Repositories
 
-| 📦 Repository | ⭐ Stars | 📜 License | 🧰 Tech Stack | 📌 Description & Focus |
+| 📦 Repository | ⭐ GitHub_Stars | 📜 License | 🧰 Tech Stack | 📌 Description & Focus |
 | :--- | :--- | :--- | :--- | :--- |
 | **[qgis/QGIS](https://github.com/qgis/QGIS)** | [<img src="https://img.shields.io/github/stars/qgis/QGIS?style=social&color=white" alt="QGIS Stars"/>](https://github.com/qgis/QGIS/stargazers) | GPL-2.0 | C++, Python | Open-source Desktop GIS foundation widely used for georeferencing cemetery plot maps and spatial analysis. |
 | **[gramps-project/gramps](https://github.com/gramps-project/gramps)** | [<img src="https://img.shields.io/github/stars/gramps-project/gramps?style=social&color=white" alt="Gramps Stars"/>](https://github.com/gramps-project/gramps/stargazers) | GPL-2.0 | Python, GTK | Premier open-source genealogy software integrating family tree records with historical burial & cemetery data. |
@@ -70,7 +70,7 @@
 
 1. **Fork** the repository 🍴
 2. **Add/Edit** entries in `README.md` following the standard table format.
-3. Ensure entries include verifiable pricing, free trial limits, or repository star badges.
+3. Ensure entries include verifiable pricing, free trial limits, or repository Stars_Badges.
 4. **Submit a Pull Request** with a detailed explanation of your addition.
 
 ---
